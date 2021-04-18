@@ -1,0 +1,24 @@
+{
+	"name": "AliceDevTools",
+	"speakableName": "Alce dev tool",
+	"version": "0.0.1",
+	"icon": "fab fa-battle-net",
+	"category": "assistance",
+	"author": "LazzaAU",
+	"maintainers": [],
+	"desc": "Tools used to assist dev'n that suspect wouldnt make pa pull request",
+	"aliceMinVersion": "1.0.0-b5",
+	"pipRequirements": [
+		""
+	],
+	"systemRequirements": [
+		""
+	],
+	"conditions": {
+		"lang": [
+			"en"
+		],
+		"online": true,
+		"asrArbitraryCapture": true
+	}
+}
